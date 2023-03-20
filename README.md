@@ -5,14 +5,14 @@
 <h3>Table of Contents</h3>
 
 <ol>
-	<li>First-Year Coding Projects - Object-Oriented Programming I &amp; II</li>
-	<li>IMDM 227 - Introduction to Computational Media</li>
-	<li>CMSC 216 - Introduction to Computer Systems</li>
-	<li>CMSC 330 - Organization of Programming Languages</li>
+	<li href="#anchor1">First-Year Coding Projects - Object-Oriented Programming I &amp; II</li>
+	<li href="#anchor2">IMDM 227 - Introduction to Computational Media</li>
+	<li href="#anchor3">CMSC 216 - Introduction to Computer Systems</li>
+	<li href="#anchor4">CMSC 330 - Organization of Programming Languages</li>
 </ol>
 
 <hr />
-<h2><strong>1. First-Year Coding Projects - Object-Oriented Programming I &amp; II</strong>&nbsp;</h2>
+<h2 id="anchor1"><strong>1. First-Year Coding Projects - Object-Oriented Programming I &amp; II</strong>&nbsp;</h2>
 
 <h3>Course Description</h3>
 
@@ -20,7 +20,7 @@
 
 <p style="margin-left:40px">Material Covered: Object-oriented programming, data structures (hash, map, tree), asymptotic complexity, debugging</p>
 
-<h2><strong>2. IMDM 227 - Introduction to Computational Media</strong></h2>
+<h2 id="anchor2"><strong>2. IMDM 227 - Introduction to Computational Media</strong></h2>
 
 <h3>p5js Program</h3>
 
@@ -44,7 +44,7 @@ This project demonstrates the concepts covered in IMDM 227. Areas include:&nbsp;
 <ul>
 </ul>
 
-<h2><strong>3.&nbsp;CMSC 216 - Introduction to Computer Systems</strong></h2>
+<h2 id="anchor3"><strong>3.&nbsp;CMSC 216 - Introduction to Computer Systems</strong></h2>
 
 <h3>User Interface &amp; Document Management Program</h3>
 
@@ -60,6 +60,6 @@ This project demonstrates file I/O, text parsing, and the ability to create a Ma
 <p style="margin-left:40px">Project Description:<br />
 This project demonstrates an understanding of MIPS assembly and converting C to assembly language.</p>
 
-<h2><strong>4.&nbsp;CMSC 330 - Organization of Programming Languages</strong></h2>
+<h2 id="anchor4"><strong>4.&nbsp;CMSC 330 - Organization of Programming Languages</strong></h2>
 
 <p>WIP</p>
