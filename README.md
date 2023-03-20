@@ -13,7 +13,7 @@
 </ol>
 
 <hr />
-<h2><strong>1. CMSC 132 - Object Oriented Programming I</strong></h2>
+<h2><strong>1. CMSC 131 - Object Oriented Programming I</strong></h2>
 
 <p>WIP</p>
 
