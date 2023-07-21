@@ -65,10 +65,10 @@
 
 <h2><strong>4.&nbsp;CMSC 330 - Organization of Programming Languages</strong></h2>
 
-<h3>Translator</h3>
+<h3>MicroCaml Interpreter</h3>
 
 <ul>
-	<li>Language: Ruby</li>
+	<li>Language: OCaml</li>
 	<li>Project Description:<br />
-	This project demonstrates an understanding of Ruby programming and using Regex. The project is a simple translator for very simple sentences.</li>
+	This project implements MicroCaml, a dynamically-typed version of OCaml with a subset of its features, and also implements mutop, a version of utop for MicroCaml. This project includes a lexer, parser, and interpreter. </li>
 </ul>
