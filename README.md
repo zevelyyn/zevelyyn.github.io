@@ -65,6 +65,8 @@
 
 <h2><strong>4.&nbsp;CMSC 330 - Organization of Programming Languages</strong></h2>
 
+<p>Languages: Ruby, OCaml, Rust</p>
+
 <h3>MicroCaml Interpreter</h3>
 
 <ul>
