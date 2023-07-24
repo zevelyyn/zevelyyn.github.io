@@ -1,6 +1,6 @@
 <h1><strong>Coding Project Portfolio</strong></h1>
 
-<p>I&#39;m Evelyn Zhao, Immersive Media Design B.S. major at University of Maryland, College Park. These are a couple of projects I&#39;ve completed showcasing what I&#39;ve learned so far.&nbsp;</p>
+<p>I&#39;m Evelyn Zhao, Immersive Media Design B.S. major at University of Maryland, College Park. Here are a few projects showcasing the classes I've taken and the skills I learned so far.&nbsp;</p>
 
 <h3>Table of Contents</h3>
 
