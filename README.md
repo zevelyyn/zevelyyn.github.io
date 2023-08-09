@@ -1,6 +1,6 @@
 <h1><strong>Coding Project Portfolio</strong></h1>
 
-<p>I&#39;m Evelyn Zhao, Immersive Media Design B.S. major at University of Maryland, College Park. Here are a few projects showcasing the classes I've taken and the skills I learned so far.&nbsp;</p>
+<p>I&#39;m Evelyn Zhao, Immersive Media Design B.S. major at University of Maryland, College Park. Here are a few projects showcasing the classes I&#39;ve taken and the skills I learned so far.&nbsp;</p>
 
 <h3>Table of Contents</h3>
 
@@ -72,5 +72,18 @@
 <ul>
 	<li>Language: OCaml</li>
 	<li>Project Description:<br />
-	This project implements MicroCaml, a dynamically-typed version of OCaml with a subset of its features, and also implements mutop, a version of utop for MicroCaml. This project includes a lexer, parser, and interpreter. </li>
+	This project implements MicroCaml, a dynamically-typed version of OCaml with a subset of its features, and also implements mutop, a version of utop for MicroCaml. This project includes a lexer, parser, and interpreter.</li>
+</ul>
+
+<h2><strong>5.&nbsp;Personal Projects</strong></h2>
+
+<h3>3D Model Portfolio</h3>
+
+<p><a href="https://zevelyyn.github.io/3D-Model-Portfolio/">https://zevelyyn.github.io/3D-Model-Portfolio/</a></p>
+
+<ul>
+	<li>Languages: JavaScript</li>
+	<li>Frameworks: React, Node.js, Vite, 3js</li>
+	<li>Project Description:<br />
+	This project builds a wesbite using React + Vite and imports the 3D models using 3js.&nbsp;</li>
 </ul>
