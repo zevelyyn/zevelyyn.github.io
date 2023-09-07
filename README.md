@@ -9,6 +9,8 @@
 	<li>IMDM 227 - Introduction to Computational Media</li>
 	<li>CMSC 216 - Introduction to Computer Systems</li>
 	<li>CMSC 330 - Organization of Programming Languages</li>
+	<li>Personal Projects</li>
+	<li>Other</li>
 </ol>
 
 <hr />
@@ -87,3 +89,7 @@
 	<li>Project Description:<br />
 	This project builds a wesbite using React + Vite and imports the 3D models using 3js.&nbsp;</li>
 </ul>
+
+<h2><strong>6. Other</strong></h2>
+
+<p>Art Portfolio:&nbsp;<a href="https://zevelyn.myportfolio.com/">https://zevelyn.myportfolio.com/</a></p>
