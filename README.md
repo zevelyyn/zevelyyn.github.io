@@ -9,6 +9,7 @@
 	<li>IMDM 227 - Introduction to Computational Media</li>
 	<li>CMSC 216 - Introduction to Computer Systems</li>
 	<li>CMSC 330 - Organization of Programming Languages</li>
+	<li>CMSC 420 - Advanced Data Structures</li>
 	<li>Personal Projects</li>
 	<li>Other</li>
 </ol>
@@ -77,11 +78,21 @@
 	This project implements MicroCaml, a dynamically-typed version of OCaml with a subset of its features, and also implements mutop, a version of utop for MicroCaml. This project includes a lexer, parser, and interpreter.</li>
 </ul>
 
+<h2><strong>5.&nbsp;CMSC 420 - Advanced Data Structures</strong></h2>
+
+<h3>Course Description</h3>
+
+<ul>
+	<li>Language: Python</li>
+	<li>Material Covered: Binary Search Trees, AVL Trees, B Trees, Scapegoat Trees, KD Trees, Extended KD Trees, Tries, Nearest Neighbor Queries, Ammortized Cost</li>
+	<li><a href="https://github.com/zevelyyn/cmsc-420">https://github.com/zevelyyn/cmsc-420</a></li>
+</ul>
+
 <h2><strong>5.&nbsp;Personal Projects</strong></h2>
 
 <h3>3D Model Portfolio</h3>
 
-<p><a href="https://zevelyyn.github.io/3D-Model-Portfolio/">https://zevelyyn.github.io/3D-Model-Portfolio/</a></p>
+<p><a href="https://github.com/zevelyyn/3D-Model-Portfolio">https://github.com/zevelyyn/3D-Model-Portfolio</a></p>
 
 <ul>
 	<li>Languages: JavaScript</li>
